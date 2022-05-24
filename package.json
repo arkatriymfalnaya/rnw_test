@@ -1,0 +1,36 @@
+{
+  "name": "rnw_test",
+  "version": "0.1.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkatriymfalnaya/rnw_test.git"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-native-web": "^0.17.7",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
